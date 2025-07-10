@@ -182,6 +182,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
+| [Cat Facts API](https://catfact.ninja/) | <details><summary>Fun cat facts</summary>Provides random cat facts for trivia apps, games, or animal-related content.</details> | None | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
 | [Random Duck](https://random-d.uk/api) | <details><summary>Random duck images</summary>Get random duck images or GIFs.</details> | None | Easy |
 | [Bird API](https://xeno-canto.org/api) | <details><summary>Bird sounds and taxonomy data</summary>Search and retrieve bird song recordings, metadata, and taxonomy from a global collection.</details> | None | Medium |
@@ -322,6 +323,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+[JokeAPI](https://v2.jokeapi.dev/) | <details><summary>Developer jokes API</summary>Get programming jokes and general humor with category filters and NSFW toggle.</details> | None | Easy |
 | [Breaking Bad Quotes API](https://breakingbadquotes.xyz/) | <details><summary>Returns random quotes from Breaking Bad</summary>Perfect for fan-based apps or quote generators. Returns a quote and the speaker.</details> | None | Easy |
 | [The Rick and Morty API](https://rickandmortyapi.com/) | <details><summary>Get data from the Rick and Morty universe</summary>Characters, locations, episodes, and relationships with a robust query system. Useful for building fan-based UIs or games.</details> | None | Easy |
 | [Star Wars API (SWAPI)](https://swapi.dev/) | <details><summary>Access Star Wars universe data</summary>Retrieve structured data on characters, planets, starships, and more. Popular in tutorials and fan apps.</details> | None | Easy |
@@ -360,6 +362,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Spoonacular](https://spoonacular.com/food-api) | <details><summary>Food and recipe data with nutrition information</summary>Build recipe apps, meal planners, and nutrition trackers with detailed food and recipe data.</details> | API Key | Easy |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | <details><summary>Cocktail recipes and drink information</summary>Get cocktail recipes, ingredients, and drink information for building bar and recipe applications.</details> | None/API Key | Easy |
+[Open Brewery DB](https://www.openbrewerydb.org/) | <details><summary>Breweries in the US</summary>Find breweries by type, name, or location across the US.</details> | None | Easy |
+
 
 ---
 
@@ -378,8 +382,11 @@ Most requested APIs for common application features:
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
+| [IP Geolocation API](http://ip-api.com/json) | <details><summary>Get location by IP</summary>Returns city, country, ZIP code, and geo-coordinates from an IP address.</details> | None | Easy |
+| [PositionStack](https://positionstack.com/) | <details><summary>Forward and reverse geocoding</summary>Convert addresses to coordinates (and vice versa) using a scalable and reliable location API.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy || [N2YO](https://www.n2yo.com/api/) | <details><summary>Real-time satellite tracking data services</summary>Track real-time satellite positions, visibility passes, and orbital data using NORAD TLEs with N2YO’s easy-to-use satellite tracking API.</details> | API Key | Medium |
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
+
 ---
 
 ## Government & Public Data
@@ -429,6 +436,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
+| [AudioDB](https://www.theaudiodb.com/api_guide.php) | <details><summary>Music artist and album data</summary>Search for artists, albums, tracks, and music videos — includes artwork and biography details.</details> | API Key | Easy |
+
 
 ---
 
@@ -439,6 +448,7 @@ Most requested APIs for common application features:
 | [Spaceflight News API](https://api.spaceflightnewsapi.net/v4/docs/) | <details><summary>Spaceflight and rocket launch news data</summary>Get the latest news on rocket launches, missions, and spaceflight updates. No authentication required.</details> | None | Easy |
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [Aylien News API](https://developer.aylien.com/newsapi) | <details><summary>AI-powered news analysis</summary>Search and analyze global news stories using NLP: filter by entities, categories, sentiment, and more.</details> | API Key | Medium |
 | [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 | [Currents API](https://currentsapi.services/en) | <details><summary>Recent news published on blogs, websites, and news outlets</summary>Provides headlines and news articles across categories with filtering by language and region.</details> | API Key | Easy |
 | [GNews API](https://gnews.io/) | <details><summary>Access to news articles from thousands of sources</summary>Search, filter, and retrieve news content using the free-tier GNews API.</details> | API Key | Easy |
@@ -567,6 +577,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
+| [Twinword Text Analysis API](https://www.twinword.com/api/text-analysis.php) | <details><summary>Multi-feature text analysis (sentiment, emotion, keyword, etc.)</summary>Analyze text to extract keywords, check grammar, detect topics, measure readability, and classify sentiment/emotions using NLP models.</details> | API Key | Medium |
+| [DeepAI Text Generator](https://deepai.org/machine-learning-model/text-generator) | <details><summary>GPT-based text generation</summary>Generate realistic and human-like text based on a given prompt using DeepAI’s generative language model.</details> | API Key | Medium |
+
+
 
 ---
 
@@ -586,6 +600,8 @@ Most requested APIs for common application features:
 | [Amadeus](https://developers.amadeus.com/) | <details><summary>Flight search, hotel booking, and travel data</summary>Build travel applications with flight search, hotel availability, and destination information.</details> | API Key | Medium |
 | [Rome2rio](https://www.rome2rio.com/documentation/) | <details><summary>Multi-modal transport search and routing</summary>Find transportation options between destinations including flights, trains, buses, and driving directions.</details> | API Key | Medium |
 | [Skyscanner](https://developers.skyscanner.net/) | <details><summary>Flight search and travel booking platform</summary>Search flights, compare prices, and access travel data for building travel booking applications.</details> | API Key | Medium |
+| [AviationStack](https://aviationstack.com/) | <details><summary>Real-time flight data</summary>Access live flight status, airline routes, airport data, and historical flights from around the world.</details> | API Key | Medium |
+
 
 ---
 
