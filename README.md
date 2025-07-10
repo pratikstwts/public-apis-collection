@@ -267,8 +267,6 @@ Most requested APIs for common application features:
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
 | [ExchangeRate API](https://api.exchangerate.host) | <details><summary>Free currency exchange rate data</summary>Provides current and historical foreign exchange rates for multiple currencies with no auth required.</details> | No | Easy |
 
-
-
 ---
 
 ## Calendar & Events
@@ -337,7 +335,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
-[JokeAPI](https://v2.jokeapi.dev/) | <details><summary>Developer jokes API</summary>Get programming jokes and general humor with category filters and NSFW toggle.</details> | None | Easy |
 | [Breaking Bad Quotes API](https://breakingbadquotes.xyz/) | <details><summary>Returns random quotes from Breaking Bad</summary>Perfect for fan-based apps or quote generators. Returns a quote and the speaker.</details> | None | Easy |
 | [The Rick and Morty API](https://rickandmortyapi.com/) | <details><summary>Get data from the Rick and Morty universe</summary>Characters, locations, episodes, and relationships with a robust query system. Useful for building fan-based UIs or games.</details> | None | Easy |
 | [Star Wars API (SWAPI)](https://swapi.dev/) | <details><summary>Access Star Wars universe data</summary>Retrieve structured data on characters, planets, starships, and more. Popular in tutorials and fan apps.</details> | None | Easy |
@@ -376,7 +373,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Spoonacular](https://spoonacular.com/food-api) | <details><summary>Food and recipe data with nutrition information</summary>Build recipe apps, meal planners, and nutrition trackers with detailed food and recipe data.</details> | API Key | Easy |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | <details><summary>Cocktail recipes and drink information</summary>Get cocktail recipes, ingredients, and drink information for building bar and recipe applications.</details> | None/API Key | Easy |
-[Open Brewery DB](https://www.openbrewerydb.org/) | <details><summary>Breweries in the US</summary>Find breweries by type, name, or location across the US.</details> | None | Easy |
+| [Open Brewery DB](https://www.openbrewerydb.org/) | <details><summary>Breweries in the US</summary>Find breweries by type, name, or location across the US.</details> | None | Easy |
 
 
 ---
@@ -420,6 +417,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+| [COVID19 API](https://covid19api.com) | <details><summary>Global COVID-19 stats</summary>Get accurate, country-wise COVID-19 case numbers, deaths, and recovery trends.</details> | None | Easy |
 | [Affirmations.dev](https://affirmations.dev/) | <details><summary>Positive self-affirmations</summary>API that returns simple, uplifting affirmations — ideal for apps focused on self-care and emotional health.</details> | None | Easy |
 
 ---
@@ -477,7 +475,6 @@ Most requested APIs for common application features:
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
 | [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Access company data from over 140 jurisdictions — including legal entities, directors, and filing histories.</summary>Ideal for compliance tools, investigative journalism, B2B verification apps, and enterprise analytics.</details> | API Key | Hard |
 | [SearchAPI.io](https://www.searchapi.io/) | <details><summary>Real-time Google Search scraping API for extracting web results, news, images, shopping data, and more without captchas or IP bans</summary>Useful for SEO tools, market research, content monitoring, and building search-powered applications. Offers multiple engines (Google, Bing, Baidu, etc.), localization, and rich result extraction. Supports keyword tracking, location-based search, and custom device emulation.</details> | API Key | Medium |
-
 
 ---
 
@@ -591,10 +588,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
+| [Fun Translations](https://funtranslations.com/api) | <details><summary>Translate text to fun fictional styles</summary>Turn your messages into Yoda-speak, Minion language, Pirate lingo and more—great for fun apps or bots.</details> | None | Easy |
 | [Twinword Text Analysis API](https://www.twinword.com/api/text-analysis.php) | <details><summary>Multi-feature text analysis (sentiment, emotion, keyword, etc.)</summary>Analyze text to extract keywords, check grammar, detect topics, measure readability, and classify sentiment/emotions using NLP models.</details> | API Key | Medium |
 | [DeepAI Text Generator](https://deepai.org/machine-learning-model/text-generator) | <details><summary>GPT-based text generation</summary>Generate realistic and human-like text based on a given prompt using DeepAI’s generative language model.</details> | API Key | Medium |
-
-
 
 ---
 
