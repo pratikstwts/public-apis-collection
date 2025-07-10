@@ -180,6 +180,7 @@ Most requested APIs for common application features:
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
+| [Bird API](https://xeno-canto.org/api) | <details><summary>Bird sounds and taxonomy data</summary>Search and retrieve bird song recordings, metadata, and taxonomy from a global collection.</details> | None | Medium |
 | [Shibe Online API](http://shibe.online/) | <details><summary>Random pictures of shibes, cats, and birds</summary>Great for pet-themed apps and generating cute animal images randomly.</details> | None | Easy |
 | [The Dog API](https://thedogapi.com/) | <details><summary>Comprehensive dog breed database with images and information</summary>Access extensive breed data, search by breed, temperament, and more. Includes image upload and voting features.</details> | API Key | Easy |
 | [Cat Ninjas API](https://catninjas.com/api) | <details><summary>Random cat images with ninja themes</summary>Get random cat images with ninja-themed content, perfect for fun applications and cat lovers who enjoy martial arts themes.</details> | None | Easy |
@@ -357,6 +358,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [RAWG](https://rawg.io/apidocs) | <details><summary>Video game database with ratings, screenshots, and metadata</summary>Build gaming applications with comprehensive video game data, reviews, and media.</details> | API Key | Easy |
 | [Comic Vine](https://comicvine.gamespot.com/api/) | <details><summary>Comic book database with characters, issues, and publishers</summary>Access comic book information for building comic databases and recommendation systems.</details> | API Key | Medium |
+| [Deck of Cards API](https://deckofcardsapi.com/) | <details><summary>Simulate a deck of cards including shuffling and drawing</summary>Useful for creating card games, testing logic, or teaching card mechanics.</details> | None | Easy |
 
 ---
 
@@ -486,6 +488,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
+| [Periodic Table API](https://neelpatel05.pythonanywhere.com/) | <details><summary>Info about all elements of the periodic table</summary>Educational API for accessing atomic data and chemistry-related information.</details> | None | Easy |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | <details><summary>Track the ISS and get people-in-space data</summary>Get real-time data about the ISS location, upcoming passes over coordinates, and the current crew in space — no authentication needed.</details> | None | Easy |
 
 ---
