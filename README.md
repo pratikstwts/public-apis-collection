@@ -408,6 +408,17 @@ Most requested APIs for common application features:
 
 ---
 
+### Jokes
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [JokeAPI](https://v2.jokeapi.dev/) | Programming, general, and dark jokes. | No | Easy
+| [Official Joke API](https://official-joke-api.appspot.com/) | Short general and programming jokes. | No | Medium |
+| [Chuck Norris API](https://api.chucknorris.io/) | Random Chuck Norris jokes. | No | Easy |
+| [Dad Jokes API](https://icanhazdadjoke.com/api) | Dad jokes in JSON format. | No |Medium |
+| [Yo Momma API](https://yomomma-api.herokuapp.com/) | Funny "yo momma" jokes. | No |Easy |
+| [JokeAPI.xyz](https://jokeapi.xyz/) | Random one-line jokes from a simple API. | No | Easy |
+
 ## Music & Audio
 
 | API | Description | Auth | Difficulty |
@@ -436,6 +447,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | <details><summary>Global development data and statistics</summary>Access economic, social, and development indicators for countries worldwide.</details> | None | Easy |
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
+| [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Access company data from over 140 jurisdictions — including legal entities, directors, and filing histories.</summary>Ideal for compliance tools, investigative journalism, B2B verification apps, and enterprise analytics.</details> | API Key | Hard |
 | [SearchAPI.io](https://www.searchapi.io/) | <details><summary>Real-time Google Search scraping API for extracting web results, news, images, shopping data, and more without captchas or IP bans</summary>Useful for SEO tools, market research, content monitoring, and building search-powered applications. Offers multiple engines (Google, Bing, Baidu, etc.), localization, and rich result extraction. Supports keyword tracking, location-based search, and custom device emulation.</details> | API Key | Medium |
 
 
@@ -447,6 +459,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Libraries.io](https://libraries.io/api) | <details><summary>Open source package and dependency data</summary>Track open source projects, dependencies, and package information across multiple package managers.</details> | API Key | Easy |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | <details><summary>GitLab project and repository management</summary>Access GitLab repositories, issues, merge requests, and CI/CD data for building developer tools.</details> | OAuth/Token | Medium |
+| [GHTorrent API](http://ghtorrent.org/) | <details><summary>Provides a mirror of GitHub's public event stream into a queryable database format.</summary>Excellent for open source research, contributor network analysis, and understanding GitHub trends over time.</details> | No | Hard |
+
 
 ---
 
@@ -598,21 +612,6 @@ Most requested APIs for common application features:
 | [YouTube Data API](https://developers.google.com/youtube/v3) | <details><summary>YouTube video data, channel information, and analytics</summary>Build video applications, analytics dashboards, and YouTube integrations with comprehensive video platform data.</details> | API Key | Easy |
 | [Vimeo](https://developer.vimeo.com/) | <details><summary>Video hosting and streaming platform</summary>Upload, manage, and stream videos with Vimeo's professional video platform.</details> | OAuth | Medium |
 | [Daily.co](https://docs.daily.co/) | <details><summary>Video calling and live streaming API</summary>Add video calls, live streaming, and real-time communication to your applications.</details> | API Key | Medium |
-
----
-
-### 😄 Jokes
-
-| API | Description | Auth | HTTPS | CORS | Link |
-|-----|-------------|------|--------|------|------|
-| [JokeAPI](https://v2.jokeapi.dev/) | Programming, general, and dark jokes. | No | Yes | Yes | [Go!](https://v2.jokeapi.dev/) |
-| [Official Joke API](https://official-joke-api.appspot.com/) | Short general and programming jokes. | No | Yes | Yes | [Go!](https://official-joke-api.appspot.com/) |
-| [Chuck Norris API](https://api.chucknorris.io/) | Random Chuck Norris jokes. | No | Yes | Yes | [Go!](https://api.chucknorris.io/) |
-| [Dad Jokes API](https://icanhazdadjoke.com/api) | Dad jokes in JSON format. | No | Yes | Yes | [Go!](https://icanhazdadjoke.com/api) |
-| [Yo Momma API](https://yomomma-api.herokuapp.com/) | Funny "yo momma" jokes. | No | Yes | Yes | [Go!](https://yomomma-api.herokuapp.com/) |
-| [JokeAPI.xyz](https://jokeapi.xyz/) | Random one-line jokes from a simple API. | No | Yes | Unknown | [Go!](https://jokeapi.xyz/) |
- |
-
 
 ---
 
