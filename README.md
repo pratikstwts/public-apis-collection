@@ -382,6 +382,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [REST Countries](https://restcountries.com/) | <details><summary>Country information including flags, currencies, and demographics</summary>Get comprehensive country data for building educational apps, travel applications, and geographical tools.</details> | None | Easy |
 | [US Census](https://www.census.gov/data/developers/data-sets.html) | <details><summary>US demographic and economic data</summary>Access population, economic, and demographic data for research and analysis applications.</details> | None/API Key | Medium |
+| [Indian Government Open Data ](https://www.data.gov.in/apis) | <details><summary>Access to public datasets from Indian government agencies</summary>Access population, economic, and demographic data for research and analysis applications.</details> | API Key | Easy |
 | [India IT Department](https://directory.apisetu.gov.in/api-collection/pan) | <details><summary>India income tax data</summary>Track PAN, verify PAN, organization PAN verification API</details> | None/API Key | Medium |
 
 ---
@@ -421,6 +422,7 @@ Most requested APIs for common application features:
 | [Spaceflight News API](https://api.spaceflightnewsapi.net/v4/docs/) | <details><summary>Spaceflight and rocket launch news data</summary>Get the latest news on rocket launches, missions, and spaceflight updates. No authentication required.</details> | None | Easy |
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 | [Currents API](https://currentsapi.services/en) | <details><summary>Recent news published on blogs, websites, and news outlets</summary>Provides headlines and news articles across categories with filtering by language and region.</details> | API Key | Easy |
 | [GNews API](https://gnews.io/) | <details><summary>Access to news articles from thousands of sources</summary>Search, filter, and retrieve news content using the free-tier GNews API.</details> | API Key | Easy |
 
