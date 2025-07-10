@@ -185,6 +185,7 @@ Most requested APIs for common application features:
 | [Shibe Online API](http://shibe.online/) | <details><summary>Random pictures of shibes, cats, and birds</summary>Great for pet-themed apps and generating cute animal images randomly.</details> | None | Easy |
 | [The Dog API](https://thedogapi.com/) | <details><summary>Comprehensive dog breed database with images and information</summary>Access extensive breed data, search by breed, temperament, and more. Includes image upload and voting features.</details> | API Key | Easy |
 | [Cat Ninjas API](https://catninjas.com/api) | <details><summary>Random cat images with ninja themes</summary>Get random cat images with ninja-themed content, perfect for fun applications and cat lovers who enjoy martial arts themes.</details> | None | Easy |
+| [Capy](https://capy.lol/) | <details><summary>Capybara Images</summary>capybara-api is a sweet, cute, fast API to get a whole bunch of images or a random image of a capybara</details>| None     | Easy       |      
 
 ---
 
