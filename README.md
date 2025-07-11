@@ -39,6 +39,55 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## Index
+
+- [🚀 **Project Enhancers**](#project-enhancers) 
+- [🎯 **Popular Integrations**](#popular-integrations) 
+- [🔒 **Authentication & Authorization**](#authentication--authorization)
+- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
+- [🐾 **Animals**](#animals)
+- [🎌 **Anime & Manga**](#anime--manga)
+- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
+- [🎨 **Art & Design**](#art--design)
+- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
+- [📚 **Books & Literature**](#books--literature)
+- [💼 **Business & Finance**](#business--finance)
+- [📅 **Calendar & Events**](#calendar--events)
+- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
+- [🔧 **Development & Testing**](#development--testing)
+- [📖 **Dictionaries & Language**](#dictionaries--language)
+- [📧 **Email & Communication**](#email--communication)
+- [🎬 **Entertainment & Media**](#entertainment--media)
+- [🌍 **Environment & Weather**](#environment--weather)
+- [🏦 **Finance & Banking**](#finance--banking)
+- [🍕 **Food & Drink**](#food--drink)
+- [🎮 **Games & Comics**](#games--comics)
+- [📍 **Geocoding & Maps**](#geocoding--maps)
+- [🏛️ **Government & Public Data**](#government--public-data)
+- [⚕️ **Health & Medical**](#health--medical)
+- [💼 **Jobs & Careers**](#jobs--careers)
+- [🎵 **Music & Audio**](#music--audio)
+- [📰 **News & Journalism**](#news--journalism)
+- [📊 **Open Data & Analytics**](#open-data--analytics)
+- [🔓 **Open Source Projects**](#open-source-projects)
+- [📱 **Phone & SMS**](#phone--sms)
+- [📸 **Photography & Images**](#photography--images)
+- [💻 **Programming & Code**](#programming--code)
+- [🔬 **Science & Mathematics**](#science--mathematics)
+- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
+- [👥 **Social Media & Networking**](#social-media--networking)
+- [⚽ **Sports & Fitness**](#sports--fitness)
+- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
+- [📝 **Text Analysis & Processing**](#text-analysis--processing)
+- [📦 **Tracking & Logistics**](#tracking--logistics)
+- [🚗 **Transportation & Travel**](#transportation--travel)
+- [🔗 **URL Shorteners**](#url-shorteners)
+- [🚙 **Vehicle Information**](#vehicle-information)
+- [🎥 **Video & Streaming**](#video--streaming)
+- [🧾 **QR & Barcode Generation**](#qr--barcode-generation)
+
+---
+
 ## Project Enhancers
 
 These APIs can significantly enhance your projects and provide professional-grade features:
@@ -105,57 +154,6 @@ Most requested APIs for common application features:
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 ---
 
-
-## Index
-
-- [🚀 **Project Enhancers**](#project-enhancers) 
-- [🎯 **Popular Integrations**](#popular-integrations) 
-- [🔒 **Authentication & Authorization**](#authentication--authorization)
-- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
-- [🐾 **Animals**](#animals)
-- [🎌 **Anime & Manga**](#anime--manga)
-- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
-- [🎨 **Art & Design**](#art--design)
-- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
-- [📚 **Books & Literature**](#books--literature)
-- [💼 **Business & Finance**](#business--finance)
-- [📅 **Calendar & Events**](#calendar--events)
-- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
-- [🔧 **Development & Testing**](#development--testing)
-- [📖 **Dictionaries & Language**](#dictionaries--language)
-- [🌍 **Disaster Management & Safety**](#disaster--safety)
-- [📧 **Email & Communication**](#email--communication)
-- [🎬 **Entertainment & Media**](#entertainment--media)
-- [🌍 **Environment & Weather**](#environment--weather)
-- [🏦 **Finance & Banking**](#finance--banking)
-- [🍕 **Food & Drink**](#food--drink)
-- [🎮 **Games & Comics**](#games--comics)
-- [📍 **Geocoding & Maps**](#geocoding--maps)
-- [🏛️ **Government & Public Data**](#government--public-data)
-- [⚕️ **Health & Medical**](#health--medical)
-- [💼 **Jobs & Careers**](#jobs--careers)
-- [🎵 **Music & Audio**](#music--audio)
-- [📰 **News & Journalism**](#news--journalism)
-- [📊 **Open Data & Analytics**](#open-data--analytics)
-- [🔓 **Open Source Projects**](#open-source-projects)
-- [🎙️ **Podcasting**](#podcasting)
-- [📱 **Phone & SMS**](#phone--sms)
-- [📸 **Photography & Images**](#photography--images)
-- [💻 **Programming & Code**](#programming--code)
-- [🔬 **Science & Mathematics**](#science--mathematics)
-- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
-- [👥 **Social Media & Networking**](#social-media--networking)
-- [⚽ **Sports & Fitness**](#sports--fitness)
-- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
-- [📝 **Text Analysis & Processing**](#text-analysis--processing)
-- [📦 **Tracking & Logistics**](#tracking--logistics)
-- [🚗 **Transportation & Travel**](#transportation--travel)
-- [🔗 **URL Shorteners**](#url-shorteners)
-- [🚙 **Vehicle Information**](#vehicle-information)
-- [🎥 **Video & Streaming**](#video--streaming)
-
----
-
 ## Authentication & Authorization
 
 | API | Description | Auth | Difficulty |
@@ -212,18 +210,14 @@ Most requested APIs for common application features:
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
 | [Trace.moe](https://soruly.github.io/trace.moe/) | <details><summary>Anime scene search engine</summary>Find out which anime a scene is from by uploading an image or using a video frame. Useful for anime recognition tools.</details> | None | Easy |
-
-
 | [AnimeChan](https://animechan.io/) | <details><summary>Random anime quotes</summary>Access over 10,000 quotes from a wide variety of anime titles and characters.</details> | None | Easy |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | <details><summary>Anime industry news</summary>Fetch industry-related news, staff, and anime information directly from ANN’s database.</details> | None | Medium |
 | [MangaDex](https://api.mangadex.org/docs/) | <details><summary>Manga database and community</summary>Provides multilingual manga data, scanlations, user content, and reading statistics.</details> | apiKey | Medium |
 | [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2) | <details><summary>Official API for MyAnimeList</summary>Manage and access anime/manga lists, reviews, and user profiles.</details> | OAuth | Medium |
 | [NekosBest](https://docs.nekos.best/) | <details><summary>Anime image and reaction API</summary>Serve reaction images and GIFs for anime roleplaying bots and fan apps.</details> | None | Easy |
 | [Shikimori API](https://shikimori.one/api/doc) | <details><summary>Anime tracking and discovery</summary>Get anime, manga, character, and user rating data along with forums and social info.</details> | OAuth | Medium |
-
 | [Kitsu](https://kitsu.docs.apiary.io/) | <details><summary>Anime discovery and tracking platform API</summary>Access anime, manga, and user libraries with search and filtering options. Great for anime recommendation engines.</details> | OAuth | Medium |
 | [Dragon Ball API](https://dragon-ball-api-grlr.onrender.com) | <details><summary>Custom-built API for Dragon Ball fans</summary>A fully functional, free-to-use API with real CRUD support—not just pseudo responses. Users can perform real operations like delete/reset, and the server restores to its base state within milliseconds. Built with Express.js, TypeScript, MongoDB, and JWT authentication. Perfect for learning and testing full-stack API interactions. [Docs](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)</details> | JWT (Admin) | Medium |
-
 
 ---
 
@@ -699,6 +693,14 @@ Most requested APIs for common application features:
 | [Daily.co](https://docs.daily.co/) | <details><summary>Video calling and live streaming API</summary>Add video calls, live streaming, and real-time communication to your applications.</details> | API Key | Medium |
 
 ---
+
+## QR & Barcode Generation
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [GoQR API](https://goqr.me/api/) | <details><summary>Generate QR codes for URLs, text, emails, phone numbers, and more</summary>Free and simple API to dynamically generate QR codes in PNG format. No authentication required. Supports GET requests with customization options for size, data, and format.</details> | None | Easy |
+| [QR Code Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | <details><summary>Generate customizable QR codes with logos and color themes</summary>Free API to generate high-resolution QR codes in PNG, SVG, or PDF formats. Supports logo embedding, custom colors, error correction, and styling. No API key required.</details> | None | Easy |
+
 
 ## 🎯 Featured API Combinations
 
