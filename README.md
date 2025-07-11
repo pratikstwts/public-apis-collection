@@ -39,6 +39,55 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## Index
+
+- [🚀 **Project Enhancers**](#project-enhancers) 
+- [🎯 **Popular Integrations**](#popular-integrations) 
+- [🔒 **Authentication & Authorization**](#authentication--authorization)
+- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
+- [🐾 **Animals**](#animals)
+- [🎌 **Anime & Manga**](#anime--manga)
+- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
+- [🎨 **Art & Design**](#art--design)
+- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
+- [📚 **Books & Literature**](#books--literature)
+- [💼 **Business & Finance**](#business--finance)
+- [📅 **Calendar & Events**](#calendar--events)
+- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
+- [🔧 **Development & Testing**](#development--testing)
+- [📖 **Dictionaries & Language**](#dictionaries--language)
+- [📧 **Email & Communication**](#email--communication)
+- [🎬 **Entertainment & Media**](#entertainment--media)
+- [🌍 **Environment & Weather**](#environment--weather)
+- [🏦 **Finance & Banking**](#finance--banking)
+- [🍕 **Food & Drink**](#food--drink)
+- [🎮 **Games & Comics**](#games--comics)
+- [📍 **Geocoding & Maps**](#geocoding--maps)
+- [🏛️ **Government & Public Data**](#government--public-data)
+- [⚕️ **Health & Medical**](#health--medical)
+- [💼 **Jobs & Careers**](#jobs--careers)
+- [🎵 **Music & Audio**](#music--audio)
+- [📰 **News & Journalism**](#news--journalism)
+- [📊 **Open Data & Analytics**](#open-data--analytics)
+- [🔓 **Open Source Projects**](#open-source-projects)
+- [📱 **Phone & SMS**](#phone--sms)
+- [📸 **Photography & Images**](#photography--images)
+- [💻 **Programming & Code**](#programming--code)
+- [🔬 **Science & Mathematics**](#science--mathematics)
+- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
+- [👥 **Social Media & Networking**](#social-media--networking)
+- [⚽ **Sports & Fitness**](#sports--fitness)
+- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
+- [📝 **Text Analysis & Processing**](#text-analysis--processing)
+- [📦 **Tracking & Logistics**](#tracking--logistics)
+- [🚗 **Transportation & Travel**](#transportation--travel)
+- [🔗 **URL Shorteners**](#url-shorteners)
+- [🚙 **Vehicle Information**](#vehicle-information)
+- [🎥 **Video & Streaming**](#video--streaming)
+- [🧾 **QR & Barcode Generation**](#qr--barcode-generation)
+
+---
+
 ## Project Enhancers
 
 These APIs can significantly enhance your projects and provide professional-grade features:
@@ -105,57 +154,6 @@ Most requested APIs for common application features:
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 ---
 
-
-## Index
-
-- [🚀 **Project Enhancers**](#project-enhancers) 
-- [🎯 **Popular Integrations**](#popular-integrations) 
-- [🔒 **Authentication & Authorization**](#authentication--authorization)
-- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
-- [🐾 **Animals**](#animals)
-- [🎌 **Anime & Manga**](#anime--manga)
-- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
-- [🎨 **Art & Design**](#art--design)
-- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
-- [📚 **Books & Literature**](#books--literature)
-- [💼 **Business & Finance**](#business--finance)
-- [📅 **Calendar & Events**](#calendar--events)
-- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
-- [🔧 **Development & Testing**](#development--testing)
-- [📖 **Dictionaries & Language**](#dictionaries--language)
-- [🌍 **Disaster Management & Safety**](#disaster--safety)
-- [📧 **Email & Communication**](#email--communication)
-- [🎬 **Entertainment & Media**](#entertainment--media)
-- [🌍 **Environment & Weather**](#environment--weather)
-- [🏦 **Finance & Banking**](#finance--banking)
-- [🍕 **Food & Drink**](#food--drink)
-- [🎮 **Games & Comics**](#games--comics)
-- [📍 **Geocoding & Maps**](#geocoding--maps)
-- [🏛️ **Government & Public Data**](#government--public-data)
-- [⚕️ **Health & Medical**](#health--medical)
-- [💼 **Jobs & Careers**](#jobs--careers)
-- [🎵 **Music & Audio**](#music--audio)
-- [📰 **News & Journalism**](#news--journalism)
-- [📊 **Open Data & Analytics**](#open-data--analytics)
-- [🔓 **Open Source Projects**](#open-source-projects)
-- [🎙️ **Podcasting**](#podcasting)
-- [📱 **Phone & SMS**](#phone--sms)
-- [📸 **Photography & Images**](#photography--images)
-- [💻 **Programming & Code**](#programming--code)
-- [🔬 **Science & Mathematics**](#science--mathematics)
-- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
-- [👥 **Social Media & Networking**](#social-media--networking)
-- [⚽ **Sports & Fitness**](#sports--fitness)
-- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
-- [📝 **Text Analysis & Processing**](#text-analysis--processing)
-- [📦 **Tracking & Logistics**](#tracking--logistics)
-- [🚗 **Transportation & Travel**](#transportation--travel)
-- [🔗 **URL Shorteners**](#url-shorteners)
-- [🚙 **Vehicle Information**](#vehicle-information)
-- [🎥 **Video & Streaming**](#video--streaming)
-
----
-
 ## Authentication & Authorization
 
 | API | Description | Auth | Difficulty |
@@ -211,6 +209,13 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
+| [Trace.moe](https://soruly.github.io/trace.moe/) | <details><summary>Anime scene search engine</summary>Find out which anime a scene is from by uploading an image or using a video frame. Useful for anime recognition tools.</details> | None | Easy |
+| [AnimeChan](https://animechan.io/) | <details><summary>Random anime quotes</summary>Access over 10,000 quotes from a wide variety of anime titles and characters.</details> | None | Easy |
+| [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | <details><summary>Anime industry news</summary>Fetch industry-related news, staff, and anime information directly from ANN’s database.</details> | None | Medium |
+| [MangaDex](https://api.mangadex.org/docs/) | <details><summary>Manga database and community</summary>Provides multilingual manga data, scanlations, user content, and reading statistics.</details> | apiKey | Medium |
+| [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2) | <details><summary>Official API for MyAnimeList</summary>Manage and access anime/manga lists, reviews, and user profiles.</details> | OAuth | Medium |
+| [NekosBest](https://docs.nekos.best/) | <details><summary>Anime image and reaction API</summary>Serve reaction images and GIFs for anime roleplaying bots and fan apps.</details> | None | Easy |
+| [Shikimori API](https://shikimori.one/api/doc) | <details><summary>Anime tracking and discovery</summary>Get anime, manga, character, and user rating data along with forums and social info.</details> | OAuth | Medium |
 | [Kitsu](https://kitsu.docs.apiary.io/) | <details><summary>Anime discovery and tracking platform API</summary>Access anime, manga, and user libraries with search and filtering options. Great for anime recommendation engines.</details> | OAuth | Medium |
 | [Dragon Ball API](https://dragon-ball-api-grlr.onrender.com) | <details><summary>Custom-built API for Dragon Ball fans</summary>A fully functional, free-to-use API with real CRUD support—not just pseudo responses. Users can perform real operations like delete/reset, and the server restores to its base state within milliseconds. Built with Express.js, TypeScript, MongoDB, and JWT authentication. Perfect for learning and testing full-stack API interactions. [Docs](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)</details> | JWT (Admin) | Medium |
 
@@ -247,6 +252,11 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [CoinGecko](https://www.coingecko.com/en/api) | <details><summary>Cryptocurrency data including prices, market cap, and trading volume</summary>Get real-time crypto prices, historical data, market trends, and coin information for building crypto applications.</details> | None | Easy |
 | [Blockchain.info](https://www.blockchain.com/api) | <details><summary>Bitcoin blockchain data and statistics</summary>Access Bitcoin transaction data, wallet information, and blockchain statistics.</details> | None | Easy |
+| [Binance API](https://www.binance.com/en/binance-api) | <details><summary>Comprehensive crypto exchange API</summary>Provides endpoints for spot, margin, futures, and options trading across 300+ coins with high‑performance real-time data and order execution.</details> | API Key | Medium |
+| [Brave New Coin API](https://bravenewcoin.com/developers) | <details><summary>Global digital asset market data</summary>Provides real-time and historical price indices, trading data, and analytics from 250+ exchanges via REST and WebSocket feeds.</details> | API Token | Medium |
+| [Coinbase API](https://docs.cdp.coinbase.com/coinbase-app/docs/auth/api-key-authentication) | <details><summary>Retail & institutional crypto trading</summary>Offers account management, market data, and trading endpoints; requires API key, secret, and passphrase—supports both wallet and exchange operations.</details> | API Key + Secret + Passphrase | Medium |
+| [CoinDCX API](https://docs.coindcx.com/) | <details><summary>India-based INR crypto trading</summary>Liquid, low-latency REST APIs for spot and futures, market data, and trading on 700+ markets (INR/crypto and crypto/crypto).</details> | API Key | Medium |
+| [Gemini API](https://docs.gemini.com/rest-api/) | <details><summary>US-based crypto exchange platform</summary>Provides secure account, order, and market data endpoints; supports both REST and FIX; strict rate limits and robust request signing are required.</details> | API Key + Secret | Medium |
 
 ---
 
@@ -296,10 +306,10 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [GoQR](https://goqr.me/api/) | <details><summary>Generate customizable QR codes via URL</summary>Create QR codes for text, URLs, and more with easy URL parameters. Useful for web apps, events, and product tagging.</details> | None | Easy |
 | [IPify](https://www.ipify.org/) | <details><summary>Get your public IP address</summary>Simple API to return your public IP address in JSON or plain text. Useful for diagnostics and logging.</details> | None | Easy |
 | [UptimeRobot](https://uptimerobot.com/api) | <details><summary>Website and API uptime monitoring service with alerting</summary>Monitor the uptime, downtime, and performance of websites and APIs with automated alerts. Great for monitoring deployed apps during development and production.</details> | API Key | Easy |
 | [Postman Echo](https://www.postman.com/postman/workspace/published-postman-templates/overview) | <details><summary>Test and debug your REST APIs</summary>Test your REST clients and API calls with a fully-featured HTTP request & response service.</details> | None | Easy |
-
 
 
 ---
@@ -310,6 +320,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
+
+| [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
+
 | [Lingua Robot](https://www.linguarobot.io/docs) | <details><summary>Word definitions, pronunciation, and usage</summary>Powerful and developer-friendly dictionary API supporting phonetics, synonyms, and word meanings.</details> | API Key | Easy |
 
 ---
@@ -321,6 +334,7 @@ Most requested APIs for common application features:
 | [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/) | <details><summary>Real-time earthquake data globally</summary>Provides real-time earthquake data such as magnitude, location, and time from the U.S. Geological Survey.</details> | None | Medium |
 | [ReliefWeb API](https://api.reliefweb.int/docs) | <details><summary>Humanitarian disaster alerts and data</summary>Offers curated humanitarian information including disaster updates, jobs, and reports published by UN and NGOs.</details> | None | Medium |
 | [Global Disaster Alert (GDACS)](https://www.gdacs.org/) | <details><summary>Alerts on earthquakes, floods, cyclones</summary>The Global Disaster Alert and Coordination System gives updates on natural disasters like earthquakes, floods, and cyclones.</details> | None | Medium |
+
 
 ---
 
@@ -388,7 +402,19 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [RAWG](https://rawg.io/apidocs) | <details><summary>Video game database with ratings, screenshots, and metadata</summary>Build gaming applications with comprehensive video game data, reviews, and media.</details> | API Key | Easy |
 | [Comic Vine](https://comicvine.gamespot.com/api/) | <details><summary>Comic book database with characters, issues, and publishers</summary>Access comic book information for building comic databases and recommendation systems.</details> | API Key | Medium |
+
+| [AmiiboAPI](https://amiiboapi.com/docs/) | <details><summary>Amiibo character data</summary>Read-only REST API providing details on Amiibo figures, series, characters, and release usage. Great for game‑related trivia or collection apps.</details> | None | Easy |
+| [Chess.com API](https://support.chess.com/en/articles/9650547-published-data-api) | <details><summary>Public chess data access</summary>REST JSON‑LD API for player profiles, game archives, club & tournament info. Read‑only; no private data.</details> | None | Easy |
+| [Clash Royale API](https://developer.clashroyale.com/) | <details><summary>Official Clash Royale data</summary>Provides player stats, clan info, leaderboards, card data, and tournaments via REST with token‑based auth.</details> | API Key | Medium |
+| [Clash of Clans API](https://developer.clashofclans.com/) | <details><summary>Official Clash of Clans endpoints</summary>Access clan searches, leaderboards, player and clan profiles, wars, raids; uses JWT Bearer tokens.</details> | Token | Medium |
+| [Disney API](https://disneyapi.dev/docs/) | <details><summary>Disney characters & media</summary>REST & GraphQL API delivering Disney character metadata, films, TV shows, games, and attractions.</details> | None | Easy |
+| [Fortnite-API](https://fortnite-api.com/) | <details><summary>Fortnite cosmetic/shop & stats</summary>Extensive REST API for cosmetics, daily shop, player stats, news, game modes; community‑driven with token‑based auth.</details> | API Key | Medium |
+| [Genshin Impact API](https://publicapi.dev/genshin-impact-api) | <details><summary>Genshin Impact game data</summary>Unofficial REST API providing characters, weapons, artifacts, stats, and other static game data.</details> | None | Easy |
+| [Lichess API](https://lichess.org/api) | <details><summary>Free, open-source chess server API</summary>Access user profiles, game archives, tournaments, live game streams, and bot endpoints. Great for building analysis tools, custom clients, and tournament integrations.</details> | OAuth | Medium |
+| [Raider API](https://genshinlist.com/developer-api) | <details><summary>Alternate Genshin game data</summary>REST API (genshinlist.com) offering characters, weapon, and artifact endpoints; requires credit & non‑competing policy.</details> | None | Medium |
+
 | [Deck of Cards API](https://deckofcardsapi.com/) | <details><summary>Simulate a deck of cards including shuffling and drawing</summary>Useful for creating card games, testing logic, or teaching card mechanics.</details> | None | Easy |
+
 
 ---
 
@@ -421,8 +447,12 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+
+| [Nutritionix API](https://developer.nutritionix.com/docs/v2) | <details><summary>Nutrition & food database</summary>Search branded and generic foods, fetch nutrition facts, serving sizes, UPC lookups, and natural language meal parsing.</details> | API Key | Medium |
+
 | [COVID19 API](https://covid19api.com) | <details><summary>Global COVID-19 stats</summary>Get accurate, country-wise COVID-19 case numbers, deaths, and recovery trends.</details> | None | Easy |
 | [Affirmations.dev](https://affirmations.dev/) | <details><summary>Positive self-affirmations</summary>API that returns simple, uplifting affirmations — ideal for apps focused on self-care and emotional health.</details> | None | Easy |
+
 
 ---
 
@@ -451,7 +481,16 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
+
+| [Napster API](https://developer.prod.napster.com/) | <details><summary>Comprehensive music catalog & playback API</summary>Access millions of tracks, artist metadata, user playlists, favorites, play counts, and more for building streaming apps.</details> | apiKey | Medium |
+| [Musixmatch API](https://developer.musixmatch.com/) | <details><summary>Huge lyrics database</summary>Search and retrieve licensed lyrics and translations for millions of songs, sync lyrics with media playback.</details> | API Key | Medium |
+| [SoundCloud API](https://developers.soundcloud.com/docs/api/guide) | <details><summary>Audio upload, insights & discovery</summary>Build apps leveraging user-uploaded tracks, comments, playlists, user profiles, and search/explore features on SoundCloud.</details> | OAuth (client_id/client_secret) | Medium |
+| [Mixcloud API](https://www.mixcloud.com/developers/) | <details><summary>Podcasts & DJ mix data</summary>Fetch user profiles, cloudcasts, tags, playlists, and embed/stream content from Mixcloud.</details> | OAuth | Medium |
+| [TheAudioDB API](https://www.theaudiodb.com/free_music_api) | <details><summary>Community-driven music metadata</summary>Retrieve artist info, albums, tracks, images, and music videos; free tier with test key (“2”).</details> | API Key (test-level free) | Easy |
+| [Shazam (via ShazamKit / third-party)](https://developer.apple.com/shazamkit/) | <details><summary>Music recognition & discovery</summary>Use Shazam’s audio recognition in apps to identify songs, access metadata, lyrics, artist info, and match audio from mic or file.</details> | SDK Key | Medium |
+
 | [AudioDB](https://www.theaudiodb.com/api_guide.php) | <details><summary>Music artist and album data</summary>Search for artists, albums, tracks, and music videos — includes artwork and biography details.</details> | API Key | Easy |
+
 
 
 ---
@@ -463,10 +502,15 @@ Most requested APIs for common application features:
 | [Spaceflight News API](https://api.spaceflightnewsapi.net/v4/docs/) | <details><summary>Spaceflight and rocket launch news data</summary>Get the latest news on rocket launches, missions, and spaceflight updates. No authentication required.</details> | None | Easy |
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+
+| [New York Times API](https://developer.nytimes.com/apis) | <details><summary>Access NYT news content & data</summary>Retrieve articles, movie reviews, book bestsellers, real‑time political data, archives, and more from The New York Times’ various endpoints.</details> | API Key | Medium |
+| [The Guardian Open Platform](https://open-platform.theguardian.com/documentation/) | <details><summary>Full‑text articles & metadata</summary>Search and retrieve content, tags, sections, images, and multimedia from The Guardian’s archive and live site.</details> | API Key | Medium |
+
 | [Aylien News API](https://developer.aylien.com/newsapi) | <details><summary>AI-powered news analysis</summary>Search and analyze global news stories using NLP: filter by entities, categories, sentiment, and more.</details> | API Key | Medium |
 | [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 | [Currents API](https://currentsapi.services/en) | <details><summary>Recent news published on blogs, websites, and news outlets</summary>Provides headlines and news articles across categories with filtering by language and region.</details> | API Key | Easy |
 | [GNews API](https://gnews.io/) | <details><summary>Access to news articles from thousands of sources</summary>Search, filter, and retrieve news content using the free-tier GNews API.</details> | API Key | Easy |
+
 
 ---
 
@@ -542,9 +586,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
-| [Where the ISS at?](https://wheretheiss.at/w/developer) | <details><summary>Current, past, or future position of the ISS</summary>Can get current, past, or future position of the ISS, timezone information about a set of coordinates, and also TLE data on the ISS.</details> | None | Easy |
+| [Wolfram Alpha API](https://products.wolframalpha.com/api/) | <details><summary>Computational knowledge engine</summary>Submit queries to get structured data, charts, or plain‑text answers across math, science, culture, history, and more.</details> | API Key | Hard |
 | [Periodic Table API](https://neelpatel05.pythonanywhere.com/) | <details><summary>Info about all elements of the periodic table</summary>Educational API for accessing atomic data and chemistry-related information.</details> | None | Easy |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | <details><summary>Track the ISS and get people-in-space data</summary>Get real-time data about the ISS location, upcoming passes over coordinates, and the current crew in space — no authentication needed.</details> | None | Easy |
+
 
 ---
 
@@ -648,6 +693,14 @@ Most requested APIs for common application features:
 | [Daily.co](https://docs.daily.co/) | <details><summary>Video calling and live streaming API</summary>Add video calls, live streaming, and real-time communication to your applications.</details> | API Key | Medium |
 
 ---
+
+## QR & Barcode Generation
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [GoQR API](https://goqr.me/api/) | <details><summary>Generate QR codes for URLs, text, emails, phone numbers, and more</summary>Free and simple API to dynamically generate QR codes in PNG format. No authentication required. Supports GET requests with customization options for size, data, and format.</details> | None | Easy |
+| [QR Code Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | <details><summary>Generate customizable QR codes with logos and color themes</summary>Free API to generate high-resolution QR codes in PNG, SVG, or PDF formats. Supports logo embedding, custom colors, error correction, and styling. No API key required.</details> | None | Easy |
+
 
 ## 🎯 Featured API Combinations
 
