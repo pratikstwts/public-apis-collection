@@ -353,6 +353,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [WeatherAPI](https://www.weatherapi.com/) - Free and reliable weather data for current, forecast, and historical weather.=======
 | [Weatherbit API](https://www.weatherbit.io/api) | <details><summary>Accurate weather forecasting and climate data API</summary>Provides real-time and forecast weather metrics like temperature, humidity, and rainfall. Useful for climate-aware agriculture, IoT, and automation systems.</details> | API Key | Easy |
 | [OpenAQ](https://docs.openaq.org/) | <details><summary>Global real-time air quality data</summary>Access worldwide air pollution measurements from verified sources. Useful for monitoring environmental conditions and pollution levels.</details> | API Key | Easy |
 | [MetaWeather](https://www.metaweather.com/) | <details><summary>Free weather data with no authentication</summary>Get current weather, forecasts, and historical weather data. Useful for quick testing and demos.</details> | No | Easy |
