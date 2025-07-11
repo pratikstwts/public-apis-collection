@@ -353,7 +353,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
-| [WeatherAPI](https://www.weatherapi.com/) - Free and reliable weather data for current, forecast, and historical weather.=======
 | [Weatherbit API](https://www.weatherbit.io/api) | <details><summary>Accurate weather forecasting and climate data API</summary>Provides real-time and forecast weather metrics like temperature, humidity, and rainfall. Useful for climate-aware agriculture, IoT, and automation systems.</details> | API Key | Easy |
 | [OpenAQ](https://docs.openaq.org/) | <details><summary>Global real-time air quality data</summary>Access worldwide air pollution measurements from verified sources. Useful for monitoring environmental conditions and pollution levels.</details> | API Key | Easy |
 | [MetaWeather](https://www.metaweather.com/) | <details><summary>Free weather data with no authentication</summary>Get current weather, forecasts, and historical weather data. Useful for quick testing and demos.</details> | No | Easy |
@@ -431,7 +430,6 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [GitHub Jobs](https://jobs.github.com/api) | <details><summary>Developer job listings from GitHub</summary>Access tech job postings and build job search applications for developers.</details> | None | Easy |
 | [Adzuna](https://developer.adzuna.com/) | <details><summary>Job search data and salary information</summary>Get job listings, salary data, and employment statistics for building career platforms.</details> | API Key | Easy |
 
 ---
@@ -544,6 +542,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
+| [Where the ISS at?](https://wheretheiss.at/w/developer) | <details><summary>Current, past, or future position of the ISS</summary>Can get current, past, or future position of the ISS, timezone information about a set of coordinates, and also TLE data on the ISS.</details> | None | Easy |
 | [Periodic Table API](https://neelpatel05.pythonanywhere.com/) | <details><summary>Info about all elements of the periodic table</summary>Educational API for accessing atomic data and chemistry-related information.</details> | None | Easy |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | <details><summary>Track the ISS and get people-in-space data</summary>Get real-time data about the ISS location, upcoming passes over coordinates, and the current crew in space — no authentication needed.</details> | None | Easy |
 
